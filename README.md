@@ -41,4 +41,4 @@ Topics:
 ### Resources
 
 * [Code Sandbox from Lecture](https://codesandbox.io/s/n58oqgwmP)
-* [React Router 4 Quick Start Guide](https://reacttraining.com/react-router/web/guides/quick-start)
+* [React Router 4 Quick Start Guide](https://reacttraining.com/react-router/web/guides/quick-start).
